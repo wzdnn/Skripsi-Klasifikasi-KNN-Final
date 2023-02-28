@@ -1,0 +1,158 @@
+Kode,Keterangan
+R,Rektor
+R.1,Wakil Rektor Bidang Al-Islam dan Kemuhammadiyahan
+R.2,Wakil Rektor Bidang Akademik
+R.3,Wakil Rektor Bidang Sumber Daya Manusia
+R.4,"Wakil Rektor bidang Keuangan, Kehartabendaan dan Administrasi Umum"
+R.5,Wakil Rektor Bidang Kemawahasiswaan dan Alumni
+U1.1,"Bidang hukum, Tatalaksana Organisasi, dan Etika"
+U1.2,Bidang Kesekretariatan dan Arsip
+U1.3,Bidang Humas dan Protokol
+U2.1,Bidang Kerja Sama Dalam Negeri
+U2.2,Bidang Kerja Sama Luar Negeri
+U3.1,Bidang Kemitraan dan Investasi
+U3.2,Bidang Kewirausahaan dan Inkubasi Bisnis
+U4.1,Bidang Audit Keuangan
+U4.2,Bidang Audit mutu Internal
+U4.3,Bidang Audit Mutu Eksternal dan Rekognisi
+U5.1,Bidang Pengelolaan Pusat Data dan Informasi
+U5.2,Bidang Perencanaan dan Pengembangan
+U16,Pesantren Mahasiswa
+U17,Museum Muhammadiyah
+F1,Dekan Fakultas Keguruan dan Ilmu Pendidikan
+F1.1,Wakil Dekan Fakultas Keguruan dan Ilmu Pendidikan
+F1.A,Kepala Kantor Fakultas FKIP
+F2,Dekan Fakultas Teknologi Industri
+F2.1,Wakil Dekan Fakultas Teknologi Industri
+F2.A,Kepala Kantor Fakultas FTI
+F3,Dekan Fakultas Sains dan Teknologi Terapan
+F3.1,Wakil Dekan Fakultas Sains dan Teknologi Terapan
+F3.A,Kepala Kantor Fakultas FAST
+F4,Dekan Fakultas Psikologi
+F4.1,Wakil Dekan Fakultas Psikologi
+F4.A,Kepala Kantor Fakultas Psikologi
+F5,Dekan Fakultas Ekonomi dan Bisnius
+F5.1,Wakil Dekan Fakutlas Ekonomi dan Bisnis
+F5.A,Kepala Kantor FEB
+F6,Dekan Fakultas Farmasi
+F6.1,Wakil Dekan Fakultas Farmasi
+F6.A,Kepala Kantor Fakultas Farmasi
+A.00,Organisasi
+A.01,Tatalaksana
+A.02,Laporan
+A.10,Ketatausahaan
+A.11,Kerumahtanggaan
+B.00,Pformasi
+B.01,Penerimaan
+B.02,Pengangkatan
+B.10,Perizinan/dispensasi
+B.11,Daftar Hadir
+B.12,Keterangan
+B.2,Pendidikan dan Pelatihan
+B.3,Organisasi
+B.40,Penilaian
+B.41,Hukuman
+B.42,Penghargaan
+B.5,Pembinaan Mental Spritiual
+B.60,Kepangkatan
+B.61,Kenaikan gaji Berkala
+B.62,Penyesuaian masa kerja
+B.63,Penyesuaian tunjangan
+B.64,Alih tugas
+B.65,Jabatan struktural
+B.66,Jabatan fungsional
+B.70,"Kesehatan, asuransi kesehatan"
+B.71,"Cuti-cuti tahunan, cuti hamil, cuti karena alasan penting"
+B.72,Rekreasi
+B.73,Bantuan sosial
+B.74,Koperasi
+B.75,Antar Jemput
+B.76,Perumahan
+B.77,Penghargaan
+B.78,Pensiun/pesangon
+B.8,Pemutusan Hubungan Kerja
+C.00,Sumbangan Pembinaan Pendidikan
+C.01,Belanja Pegawai
+C.02,Belanja Barang
+C.03,Uang Sidang
+C.04,dan lain yang sejenis yang sifatnya rutin
+C.10,Pembangungan Gedung
+C.11,Pengadaan peralatan kuliah
+C.12,Pengadaan perabotan kantor
+C.13,Pengadaan peralatan laboratorium/teknik
+C.14,dan lain yang sejenis 
+C.2,Non-Budgeter
+C.30,SPJ Rutin
+C.31,SPJ Pembangunan/Pengembangan
+C.32,SPJ Non-Budgeter
+C.4,Pajak
+C.5,Perbankan
+C.6,Sumbangan/Bantuan
+D.00,Kurikulum
+D.01,Silabi/SAP
+D.02,Perubahan Kurikulum
+D.10,Jadwal Kuliah
+D.11,Presensi Kuliah
+D.12,Pembatalan/Penundaan Kuliah
+D.13,"Kuliah antar waktu, reguler"
+D.20,Daftar Dosen
+D.21,Dosen Negeri/Diperkerjakan
+D.22,Dosen Tetap Yayasan
+D.23,Dosen Tidak Tetap Luar Biasa
+D.24,Dosen Tamu/Asing/Volunteer
+D.25,Izin Dosen
+D.30,Ujian Semester/Tengah Semester
+D.31,"Ujian Skripsi, Tesis, Disertasi"
+D.32,Ujian Komprehensif
+D.33,Ujian Follow Up/Remedial
+D.34,"Program Pengalaman Lapangan, Program Kerja Lapangan, Kuliah Kerja Nyata"
+D.35,Yudisium
+D.36,Transkrip
+D.37,Ijazah
+D.40,Program Magister (S2)
+D.41,Program Doktor (S3)
+D.42,"Pendidikan Spesialis, Profresi dan Diploma"
+D.5,Ketatausahaan
+D.60,Registrasi Mahasiswa
+D.61,"Keterangan Mahasiswa, Nomor Induk Mahasiswa, Kartu Mahasiswa, dll."
+D.62,Perwalian
+D.63,Cuti Studi
+D.64,Mutasi
+D.65,Organisasi Kemahasiswaan
+D.66,Penalaran mahasiswa
+D.67,Unit Kegiatam Mahasiswa
+D.68,"Beasiswa, Darmasiswa/Widyasiswa"
+D.69,Olahraga dan seni
+D.7,Alumni
+E.0,Pengadaan
+E.10,Alat Tulis Kantor
+E.11,Menis Kantor dan alat-alat elektronik
+E.12,Telknologi Informatika
+E.2,Alat Kuliah
+E.3,Alat Angkuta/Transportasi
+E.4,Alat-alat Kerumahtanggaan
+E.5,Alat Komunikasi berbasis IT
+E.6,Perabot Kantor
+E.7,Invetaris
+E.8,Penyusutan
+F.0,Kepustakaan
+F.1,Dokumentasi
+F.2,Penerbitan
+F.3,E-Learning
+G.0,Tanah
+G.1,Bangungan/Pergedungan
+H.0,Penerangan
+H.1,Hubungan
+H.2,Keprotokolan
+I.0,Penelitian
+I.1,Pengembangan
+J.0,Kuliah Kerja Nyata
+J.1,Bantuan Tenaga Sukarela
+J.2,Bantuan Tenaga Penceramah/Penyuluhan
+J.3,"Seminar,Lokakarya,Workshop"
+J.4,Bhakti Sosial
+J.5,Pemberian Latihan
+K.00,Pengawasan Ketatausahaan
+K.01,Pengawasan Kepegawaian
+K.02,Pengawasan Keuangan
+K.03,Pengawasan Perlengkapan dan Inventaris
